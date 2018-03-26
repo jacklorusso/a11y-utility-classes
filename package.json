@@ -1,0 +1,13 @@
+{
+  "name": "a11y-utility-classes",
+  "version": "0.1.1",
+  "description":
+    "Helpful utility classes to assist with making web projects more accessible",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["css", "a11y", "utility", "accessibility"],
+  "author": "Jack Lo Russo <jack.lorusso@gmail.com>",
+  "license": "MIT"
+}

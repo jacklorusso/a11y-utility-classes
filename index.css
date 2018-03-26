@@ -1,0 +1,28 @@
+/* a11y-utility-classes */
+
+/*
+ Hides element visually but still allow it to be picked up by screen readers
+*/
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap;
+}
+
+/*
+ Make important elements distinguishable for people using High Contrast mode
+*/
+.transparent-border {
+  border: 1px solid transparent;
+}
+
+/*
+ Apply a grayscale filter to check whether the design relies on color alone
+ to highlight interactive or important elements
+*/
+.filter-grayscale {
+  filter: grayscale(100%);
+}
