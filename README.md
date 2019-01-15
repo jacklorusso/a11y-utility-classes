@@ -10,8 +10,6 @@ yarn add a11y-utility-classes
 
 ## Many thanks
 
-Everything here has been taught by others:
-
 * Julie Grundy [@stringy](https://twitter.com/stringy)
 * Heydon Pickering [@heydonworks](https://twitter.com/heydonworks)
 
